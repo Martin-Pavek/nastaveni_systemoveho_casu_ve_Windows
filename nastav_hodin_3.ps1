@@ -2,7 +2,7 @@
 <# musi bejt spusteno v rezimu administrator
 nastavi systemovy cas podle pipnuti v radiu pred zpravama treba na CR-plus
 je to pro pocitac ktery je dlouho offline a proto nema kontrolu nastaveni casu z internetu
-a po case se hodiny zacnou rozchazet, takze nastvi na vterinu presne na vterinu
+a po case se hodiny zacnou rozchazet, takze nastvi na vterinu presne
 #>
 
 Remove-Variable volba -ErrorAction Ignore
